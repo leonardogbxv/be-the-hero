@@ -8,7 +8,7 @@
 
 - [x] Back-end
 - [x] Front-end
-- [ ] Mobile
+- [x] Mobile
 - [ ] ...
 
 **&copy; [Rocketseat](https://rocketseat.com.br/)**
