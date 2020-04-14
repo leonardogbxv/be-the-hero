@@ -1,17 +1,17 @@
 # Semana OmniStack 11.0
 
-## Be The Hero Project 
+## Be The Hero Project 🦸‍
 
 > An Application that will connect people who want to help NGOs in a monetary way, raising funds for their causes.
 
 Esse foi o tema do projeto da Semana Omnistack 11.0
 
-## Tecnologias 
+## Tecnologias 💻
 - [Node.js](https://nodejs.org/en/) / [Express](https://expressjs.com/) - Back-end
 - [React](https://reactjs.org/) - Front-end
 - [React Native](https://reactnative.dev/) - Mobile
 
-## Instalação
+## Instalação 🔧
 Primeiramente, clone o projeto e instale suas dependências:
 
 ```
@@ -48,23 +48,25 @@ $ npm install
 $ npm start
 ```
 
-Abrirá uma página web no ```localhost:19002``` com o QRCode da aplicação
+Abrirá uma página web no ```localhost:19002``` com o QRCode da aplicação.
 
 Tenha instalado o Expo no seu celular para poder acessa-lo via QRCode gerado.
 
-> Nota: Coloque seu endereço de IP no arquivo api.js (...\be-the-hero\mobile\src\services\api.js) como mostra no código abaixo:
+> Nota: Necessário colocar seu endereço de IP em ```...\be-the-hero\mobile\src\services\api.js``` como mostra no código abaixo:
 ```javascript
 const api = axios.create({
     //baseURL: 'COLOCAR ENDEREÇO DE IP AQUI'
 });
 ```
 
-## Progresso 
+## TODO 📑
 
 - [x] Back-end
 - [x] Front-end
 - [x] Mobile
 
-**&copy; [Rocketseat](https://rocketseat.com.br/)**
+**&copy; [Rocketseat](https://rocketseat.com.br/)** 
 
 **Instructor: [Diego Fernandes](https://github.com/diego3g)**
+
+🚀
