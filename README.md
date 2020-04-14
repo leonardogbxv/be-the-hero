@@ -59,11 +59,14 @@ const api = axios.create({
 });
 ```
 
-## TODO 📑
+## Progresso 🎢
 
 - [x] Back-end
 - [x] Front-end
 - [x] Mobile
+
+Minhas anotações durante a semana do projeto 📃 
+> [Notion.so - Notas Leonardo](https://www.notion.so/Semana-Omnistack-11-0-5cf854fa329348b0a7ab59c82550adef)
 
 **&copy; [Rocketseat](https://rocketseat.com.br/)** 
 
