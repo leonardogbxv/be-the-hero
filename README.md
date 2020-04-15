@@ -1,8 +1,12 @@
-# Semana OmniStack 11.0
+## Be The Hero Project 🦸‍♂️
 
-## Be The Hero Project 🦸‍
+<h4 align="center">
+<img src="mobile/src/assets/logo@3x.png" width="250px" />
+</h4>
 
 > An Application that will connect people who want to help NGOs in a monetary way, raising funds for their causes.
+
+Aplicação que conectará pessoas que tem vontade de ajudar, de uma forma monetária, ONGs em necessidade.
 
 Esse foi o tema do projeto da Semana Omnistack 11.0
 
