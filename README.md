@@ -56,12 +56,15 @@ Abrirá uma página web no ```localhost:19002``` com o QRCode da aplicação.
 
 Tenha instalado o Expo no seu celular para poder acessa-lo via QRCode gerado.
 
-> Nota: Necessário colocar seu endereço de IP em ```...\be-the-hero\mobile\src\services\api.js``` como mostra no código abaixo:
+_______
+📍*Nota: Necessário colocar seu endereço de IP em ```...\be-the-hero\mobile\src\services\api.js``` como mostra no código abaixo:*
 ```javascript
 const api = axios.create({
     //baseURL: 'COLOCAR ENDEREÇO DE IP AQUI'
 });
 ```
+(Isto somente para o mobile).
+_______
 
 ## Progresso 🎢
 
@@ -71,8 +74,6 @@ const api = axios.create({
 
 Algumas [anotações](https://www.notion.so/Semana-Omnistack-11-0-5cf854fa329348b0a7ab59c82550adef) que fiz durante o projeto < 📃 
 
-**&copy; [Rocketseat](https://rocketseat.com.br/)** 
+**&copy; [Rocketseat](https://rocketseat.com.br/)** 🚀
 
-**Instructor: [Diego Fernandes](https://github.com/diego3g)**
-
-🚀
+**Instructor: [Diego Fernandes](https://github.com/diego3g)** 
